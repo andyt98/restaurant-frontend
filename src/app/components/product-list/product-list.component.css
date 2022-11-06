@@ -1,0 +1,89 @@
+.main-content{
+  padding-top:116px;
+  min-height:100vh;
+  padding-left: 116px;
+}
+
+.product-name {
+  text-align: center;
+  width: 30rem;
+}
+
+.center-content {
+  margin: 0 auto;
+  border: 3px solid red;
+}
+
+.product-box {
+  width: 30rem;
+  padding-bottom: 3rem;
+}
+
+.price {
+  margin: 15px 0 0;
+  font-weight: 600;
+  color: #2b2c34;
+  text-align: center;
+  font-size: 30px;
+}
+
+.product-box img {
+  width: 30rem;
+  height: 25rem;
+  border-radius: 40px;
+}
+
+.product-box h1{
+  font-size:18px;
+  border-bottom:1px solid #ccc;
+  padding-bottom:5px;
+  font-weight:600;
+  padding-top:12px;
+  margin-bottom:7px
+}
+.product-box h2{
+  font-size:15px;
+  padding-bottom:0;
+  font-weight:500;
+  color:#585858
+}
+
+.btn-group-sm>.btn, .btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: .875rem;
+  line-height: 1.5;
+  margin: 0 auto;
+  background: #6246ea;
+  color:#ffffff;
+  border:1px solid #6246ea;
+  border-radius:43px;
+  height: 47px;
+  width: 100px;
+  display: block;
+
+}
+
+/*.btn-work {*/
+/*  width: 250px;*/
+/*  height: 50px;*/
+/*  margin: 0 auto;*/
+/*  padding: 0;*/
+/*  display: inline-block;*/
+/*  line-height: 50px;*/
+/*  text-align: center;*/
+/*}*/
+
+.btn-group-sm>.btn, .btn-sm:hover{
+  background:#e45858
+}
+.items select {
+  width: 100px;
+  height: 40px;
+  border-radius: 40px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  outline: 0;
+  margin-left: 5px;
+}
+
+

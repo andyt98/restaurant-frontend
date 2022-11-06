@@ -1,0 +1,38 @@
+.price{
+  margin: 15px;
+  font-size: 20px;
+  color:#2b2c34;
+}
+
+.detail-section{
+  margin-top:60px;
+  padding-top: 60px;
+  padding-left: 37px;
+}
+
+.detail-img{
+  width: 30%;
+  border-radius: 30px ;
+}
+
+.product-name {
+  margin-top: 25px;
+}
+
+.btn {
+  position:relative;
+  right:0;
+  min-width:95px;
+  color:#ffffff;
+  border:1px solid #6246ea;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius: 43px;
+  background:#6246ea;
+  width: 100px;
+  height: 47px;
+}
+
+.btn:hover {
+  background:#e45858
+}

@@ -1,0 +1,35 @@
+.table{
+  margin:0
+}
+table.table.table-bordered{
+  border:1px solid #ccc;
+  background:#fff
+}
+.table-bordered td,.table-bordered th{
+  border:1px solid #dee2e6
+}
+table.table.table-bordered th{
+  background:#d1d1e9;
+  color:#2b2c34;
+  font-size:14px;
+  padding:7px
+}
+
+.items select{
+  width:100px;
+  height:40px;
+  border-radius:40px;
+  padding-left:15px;
+  margin-bottom:10px;
+  outline:0;
+  margin-left:5px
+}
+
+.btn-primary {
+  background-color: #6246ea;
+  border-color: #6246ea;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 43px;
+}

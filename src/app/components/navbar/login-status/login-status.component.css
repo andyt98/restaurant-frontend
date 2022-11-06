@@ -1,0 +1,50 @@
+
+.security-btn {
+    position:relative;
+    right:0;
+    min-width:95px;
+    color:#ffffff;
+    border:1px solid #6246ea;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius: 43px;
+    background:#6246ea
+}
+
+.security-btn:hover {
+    background:#e45858
+}
+
+
+.login-status-header{
+    display:-webkit-box;
+    display:-webkit-flex;
+    display:-moz-box;
+    display:-ms-flexbox;
+    display:flex
+}
+
+
+.login-status-user-info {
+    line-height:43px;
+    border:1px;
+    padding:0 17px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    -webkit-transition:all .5s ease;
+    -o-transition:all .5s ease;
+    -moz-transition:all .5s ease;
+    transition:all .5s ease
+}
+
+.login-btn{
+  border: 2px solid #6246ea;
+  height: 47px;
+  width: 100px;
+}
+
+
+
+
+
